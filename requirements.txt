@@ -1,0 +1,15 @@
+PyJWT==2.3.0
+autopep8
+black
+boto3
+cryptography
+fastapi==0.75.0
+hypercorn
+opensearch_py==1.0.0
+pydantic-factories
+pydantic==1.8.2
+pylint
+pytest-cov
+pytest==6.2.3
+python-dotenv
+requests==2.27.1
